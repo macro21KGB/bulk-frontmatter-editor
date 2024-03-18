@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "bulk-frontmatter-editor",
+	"name": "Bulk Frontmatter Editor",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Bulk edit frontmatter of multiple notes at once.",
+	"author": "Mario De Luca (macro21KGB)",
+	"authorUrl": "https://mariodeluca.com",
 	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
